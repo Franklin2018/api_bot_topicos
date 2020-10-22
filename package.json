@@ -4,7 +4,7 @@
   "description": "aplicacion para el desarrollo de un bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "keywords": [],
   "author": "Franklin Caceres - Luis Perez",
